@@ -1,0 +1,1 @@
+ini merupakan sebuah text yang digunakan untuk melakukan test fungsi get pada source code server-client yang telah dibuat.
